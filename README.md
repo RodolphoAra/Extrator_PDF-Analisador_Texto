@@ -42,6 +42,8 @@ analisar_texto(texto): Analisa um texto e retorna contagem de palavras, de letra
 - collections.Counter (para análise de frequência)
 
 👤 Autor:
+
+
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/157126047?s=96&v=4" width=115><br><sub>RodolphoAra</sub>](https://github.com/RodolphoAra)
 
 📝 Licença
